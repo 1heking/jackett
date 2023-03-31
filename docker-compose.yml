@@ -8,7 +8,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Europe/London
-      - AUTO_UPDATE=true #optional
+      - AUTO_UPDATE=false #optional
 #      - RUN_OPTS=<run options here> #optional
 #    volumes:
 #      - <path to data>:/config
