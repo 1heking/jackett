@@ -1,9 +1,9 @@
 ---
 version: "2.1"
 services:
-  jackett:
+  jacketttest:
     image: lscr.io/linuxserver/jackett:latest
-    container_name: jackett
+    container_name: jacketttest
     environment:
       - PUID=1000
       - PGID=1000
