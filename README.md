@@ -1,5 +1,5 @@
 # jackett-okteto
-Jackett for Okteto Cloud
+Jackett for Docker containers!
 
 ## Running
-For quick use, use this repo directly and deploy it to Okteto Cloud. Customize `docker-compose.yml` as you want if needed.
+For quick use, use this repo directly and deploy it. Customize `docker-compose.yml` as you want if needed.
